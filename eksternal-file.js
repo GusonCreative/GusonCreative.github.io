@@ -1,0 +1,1 @@
+alert ("Kode JavaScript dari file eksternal");
